@@ -73,13 +73,9 @@
       "version": "3.19"
     },
     "baseline": {
-      "patch": "30",
-      "version": "4.3.30"
+      "patch": "30"
     },
-    "patch": {
-      "version": "48"
-    },
-    "version": "4.3.48"
+    "version": "4.3.30"
   },
   "4.4": {
     "alpine": {
