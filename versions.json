@@ -99,10 +99,7 @@
     "baseline": {
       "version": "5.0"
     },
-    "patch": {
-      "version": "18"
-    },
-    "version": "5.0.18"
+    "version": "5.0.0"
   },
   "5.1": {
     "alpine": {
